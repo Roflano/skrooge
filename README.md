@@ -1,1 +1,1 @@
-# skrooge
+Starting a business, growing it, working on the product, dealing with staff and clients is something I like, and even though it takes a lot of my time and energy, I keep doing it without delegating. But accounting is something I just can’t stand, I don’t like it, I don’t get it. I tried working with an accountant before, but if there are modern solutions like [Skrooge AI](https://skrooge.ai/) now, why not use them? Plus it turns out cheaper than when I was paying a specialist. Everything is in one software and it all works as it should.
